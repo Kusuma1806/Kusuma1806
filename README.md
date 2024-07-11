@@ -18,12 +18,12 @@ I'm passionate about building innovative and efficient software solutions. With 
 - Advanced React 
 
 🌟 Projects:
-- [Project 1](link): 
-- [Project 2](link): A brief description of what this project is about.
+- [Project 1](https://github.com/Kusuma1806/Tic-Tac-Toe-game.git): A Tic-Tac-Toe game using HTML CSS JS 
 
-📫 **How to Reach Me:**
-- [Email](mailto:your-email@example.com)
-- [LinkedIn](your-linkedin-url)
+
+📫 How To Reach Me:
+- [Email](mailto:kusumaraju1806@gmail.com)
+- [LinkedIn]()
 - [Portfolio](your-portfolio-url)
 
 Always eager to collaborate on exciting projects and learn new technologies. Let's connect!
