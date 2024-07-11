@@ -23,8 +23,8 @@ I'm passionate about building innovative and efficient software solutions. With 
 
 📫 How To Reach Me:
 - [Email](mailto:kusumaraju1806@gmail.com)
-- [LinkedIn]()
-- [Portfolio](your-portfolio-url)
+- [LinkedIn](https://www.linkedin.com/in/raju-kusuma-995a10287)
+
 
 Always eager to collaborate on exciting projects and learn new technologies. Let's connect!
 <!---
